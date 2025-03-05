@@ -6,4 +6,4 @@ Sistem ini terintegrasi dengan Platform Blynk
 # Oven 
 ![Image Alt](https://github.com/aldiansyah71/Kontrol-Oven-Pengering-Ikan-Asin-Otomatis/blob/main/didalam.jpg?raw=true))
 ![Image Alt](https://github.com/aldiansyah71/Kontrol-Oven-Pengering-Ikan-Asin-Otomatis/blob/main/gambar%20depan.jpg?raw=true))
-![Image Alt]((https://github.com/aldiansyah71/Kontrol-Oven-Pengering-Ikan-Asin-Otomatis/blob/main/Picture4.jpg?raw=true))
+![Image Alt](https://github.com/aldiansyah71/Kontrol-Oven-Pengering-Ikan-Asin-Otomatis/blob/main/Picture4.jpg?raw=true)
